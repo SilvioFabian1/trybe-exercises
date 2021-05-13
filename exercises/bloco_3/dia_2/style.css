@@ -1,0 +1,39 @@
+body{
+    font-size: 16px;
+}
+
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+
+li{
+    background-color: rgb(51, 255, 0);
+    font-style: italic;
+    line-height: 50px;
+}
+
+p{
+    font-weight: 600;
+    font-size: 3em;
+    font-style: oblique;
+    text-decoration: line-through;
+}
+
+.mod{
+    background-color: red;
+    text-align: center;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+.marrom{
+    background-color: brown;
+}
