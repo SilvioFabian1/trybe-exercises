@@ -1,0 +1,27 @@
+div:hover{
+    border: black 3px solid;
+    transition: 0.5s;
+}
+
+div:nth-child(3){
+    background-color: green;
+    font-style: italic;
+}
+
+div:nth-child(4){
+    background-color: red;
+}
+
+div:nth-child(5){
+    background-color: blue;
+    font-style: italic;
+}
+
+div:nth-child(6){
+    background-color: gray;
+}
+
+div:nth-child(7){
+    background-color: rgb(87, 238, 213);
+    font-style: italic;
+}
