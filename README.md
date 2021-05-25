@@ -31,13 +31,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-4: _HTML Semântico_
 - [X] 3-5: _[Projeto - HTML & CSS](https://github.com/tryber/sd-013-a-project-lessons-learned/tree/silviofabian1-lessons-learned-project)_
 
-##### Bloco 4: Introdução - JavaScript
+##### Bloco 4: Introdução - JavaScript:white_check_mark:
 
 - [X] 4-1: _JavaScript - Primeiros passos_
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [X] 4-4: _JavaScript - Objetos e funções_
+- [X] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-013-a-project-playground-functions/tree/SilvioFabian1-playground-functions)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
