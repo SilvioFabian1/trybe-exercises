@@ -39,7 +39,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-4: _JavaScript - Objetos e funções_
 - [X] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-013-a-project-playground-functions/tree/SilvioFabian1-playground-functions)_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Bloco 5: Introdução - JavaScript - Projetos:white_check_mark:
 
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
@@ -47,10 +47,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Meme Generator]()_
 - [X] 5-6: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-013-a-project-pixels-art/tree/silvio-fabian-project-pixels-art)_
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_
+- [X] 5-7: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-013-a-project-todo-list/tree/silvio-fabian-todo-list-project)_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
-<!--
+
 ##### Bloco 6: HTML & CSS avançado
 
 - [ ] 6-1: _HTML & CSS - Forms_
@@ -59,7 +59,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
-
+<!--
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
