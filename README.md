@@ -51,7 +51,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [X] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avançado
+##### Bloco 6: HTML & CSS avançado:white_check_mark:
 
 - [X] 6-1: _HTML & CSS - Forms_
 - [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -60,12 +60,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6-5: _CSS Responsivo - Mobile First_
 - [X] 6-6: _[Projeto - TrybeWarts](https://github.com/tryber/sd-013-a-project-trybewarts/tree/silvio-fabian-trybewarts-project)_
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários
+##### Bloco 7: JavaScript ES6 & Testes Unitários:white_check_mark:
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Testes unitários em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [X] 7-2: _JavaScript ES6 - Objects_
+- [X] 7-3: _Testes unitários em JavaScript_
+- [X] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 <!--
 ##### Bloco 8: JavaScript ES6
 
